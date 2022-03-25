@@ -267,6 +267,16 @@ body.light hr.separator {
   body.light.portfolio .slideshow nav span.nav-prev {
     top: 31px;
   }
+  .picture-name {
+    background-image: url("../img/bruno.png") ;
+    background-repeat: no-repeat;
+    width: auto;
+    margin-bottom: 40px;
+    height: 150px;
+    color: rgb(143, 25, 25);
+    
+    
+  }
 }
 /*** Buttons ***/
 .btn {
